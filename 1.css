@@ -1,0 +1,37 @@
+/*---------- #DELETE ----------*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #f4f4f4;
+}
+/*---------- ^^^^^^^ ----------*/
+/*---------- #DELETE ----------*/
+
+
+
+/*----- #CTA #CONTACT -----*/
+.cta-contact-phone, 
+.cta-contact-email  {
+    margin: 25px 0 !important;
+    text-align: center;
+}
+
+.cta-contact-phone a,
+.cta-contact-email a {
+    padding: 8px 20px;
+    text-decoration: none;
+    border-radius: 50px;
+    color: black;
+    border: 1px solid black;
+    background: white;
+}
+
+.cta-contact-phone a:hover,
+.cta-contact-email a:hover {
+    text-decoration: none !important;
+    color: white;
+    background: black;
+    border: 1px solid black;
+}
+
+
